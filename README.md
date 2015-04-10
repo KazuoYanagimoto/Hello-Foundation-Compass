@@ -1,2 +1,2 @@
 # Hello-Foundation-Compass
-A basic project template system for creating web-apps powered by Foundation/Compass.
+> Hello-Foundation-Compass is a Compass-powered version of Foundation, ready to drop right into your Compass powered applications.
